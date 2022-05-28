@@ -133,3 +133,6 @@ node_modules/
 #Sublime
 *.sublime-workspace
 *.sublime-project
+
+#SECRET
+/shop_wiki/pass.json
